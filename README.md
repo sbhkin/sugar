@@ -17,10 +17,10 @@ You're good to go. Use Sugar as usual and your database is encrypted now.
 # Sugar ORM
 
 ###  <a link = "usemasterv"></a>How to use master version
-First, download sugar repository, switch the branch to Cipher version
+First, download sugar repository. Make sure you are on the branch sugar-cipher
 ```
 git clone git@github.com:sbhkin/sugar.git
-git checkout sugarCipher
+git checkout sugar-cipher
 ```
 
 include this in your **settings.gradle**
